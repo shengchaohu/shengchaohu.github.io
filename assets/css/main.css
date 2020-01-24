@@ -3465,7 +3465,7 @@
 				color: #e5474b !important;
 			}
 
-		#banner:after {
+		#banner::after {
 			-moz-transition: opacity 4s ease;
 			-webkit-transition: opacity 4s ease;
 			-ms-transition: opacity 4s ease;
