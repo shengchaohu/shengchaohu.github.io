@@ -141,6 +141,7 @@ article span {
 }
 
 blockquote {
+    display:inline;
     margin: 0;
 }
 
