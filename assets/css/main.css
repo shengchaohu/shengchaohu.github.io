@@ -3359,10 +3359,10 @@
 		color: #f2a3a5;
 		padding: 20em 0 20em 0;
 		background-color: #0c0c0c;
-		background-image: url("../../images/banner1.jpg");
+		background-image: url("../../images/banner1.jpg") , linear-gradient(105deg, rgba(0,249,255,1) 39%, rgba(51,56,57,1) 96%);
 		background-size: cover;
 		background-repeat: no-repeat;
-		background-position: 15% left;
+		background-position: left top;
 		text-align: left;
 		position: relative;
 		z-index: 9999;
